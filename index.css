@@ -37,7 +37,7 @@ header {
 .logoContainer {
     width: 311px;
     height: 49px;
-    background: url('/logo.svg') center no-repeat;
+    background: url('./logo.svg') center no-repeat;
     background-size: contain;
 }
 .userIconContainer {
